@@ -42,6 +42,4 @@ Bibliotecas Python
 ## Criação do book de variáveis
 
 Para a criação do book de variáveis, foram necessárias as seguintes etapas:
--Sumarizar as estatísticas dos jogadores, selecionando apenas os últimos 30 dias de estatísticas disponíveis na tabela tb_lobby_stats_player.
-
--
+- Sumarizar as estatísticas dos jogadores, selecionando apenas os últimos 30 dias de estatísticas disponíveis na tabela tb_lobby_stats_player.
